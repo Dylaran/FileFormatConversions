@@ -125,7 +125,8 @@ def write_xml_string(data):
 
 
 
-# The code below isn't needed, but may be helpful in testing your code.
+# Default Test
+# More testing is done in tests.py
 if __name__ == "__main__":
     input_ = """
     col1,col2,col3

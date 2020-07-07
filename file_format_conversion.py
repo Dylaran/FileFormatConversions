@@ -1,20 +1,18 @@
 """
+
 Project #1 
 Name: Don Nakashima
-Time to completion: 1 hour
+
 Comments:
 Not sure how to make the parsing more efficient, but works as intended.
 
 Sources:
 https://docs.python.org/3/library/xml.etree.elementtree.html - Referenced for tree builder
+
 """
 import csv
 import json
 import xml.etree.ElementTree as ET
-
-
-# You are welcome to add code outside of functions
-# like imports and other statements
 
 def read_csv_string(input_):
     """

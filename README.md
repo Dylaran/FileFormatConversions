@@ -1,5 +1,4 @@
 # FileFormatConversions
-Project for CSE480: Database Systems.
 
 Converts between 3 plain text data representations: CSV, JSON, and XML. 
 
